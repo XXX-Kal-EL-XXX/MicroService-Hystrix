@@ -1,0 +1,26 @@
+package com.contact.service;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.contact.entity.Contact;
+
+@Service
+public class ContactServiceImpl implements ContactService {
+	
+	//Fake Service
+	List<Contact> list = List.of(
+			new Contact(2001L, "kalel@gmail.com","Kal-EL", "1001"),
+			new Contact(2002L, "dayana@gmail.com","Dayana", "1002"),
+			new Contact(2003L, "bruce@gmail.com","Bruce-Wayn", "1003")
+			);
+
+	@Override
+	public List<Contact> getContacts(Long user) {
+		return null;
+	}
+	
+	
+
+}

@@ -1,0 +1,5 @@
+package com.contact.entity;
+
+public class Contact {
+
+}

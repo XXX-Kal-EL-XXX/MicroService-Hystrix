@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Contact.java&apos; to &apos;Contact-Service/src/main/java/com.contact.entity&apos;&#x0A;- Original project: &apos;User-Service&apos;&#x0A;- Destination element: &apos;Contact-Service/src/main/java/com.contact.entity&apos;&#x0A;- Original element: &apos;com.user.entity.Contact.java&apos;" description="Copy compilation unit" destination="=Contact-Service/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.contact.entity" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.user.entity{Contact.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1658215903864" units="1" version="1.0"/>
+</session>
