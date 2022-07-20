@@ -9,7 +9,7 @@
 &nbsp;&nbsp;c. APIGateway.<br/>
 2. @LoadBalanced.<br/>
 3. Eureka Server.<br/>
-4. Hystrix(Fault Toleraance: To monitor Microservice's activity)
+4. Hystrix(Fault Toleraance: To monitor Microservice's activity)<br/>
 5. Port Used: <br/>
 &nbsp;&nbsp;a. EurekaServer: 8761.<br/>
 &nbsp;&nbsp;b. User-Service: 9001.<br/>
